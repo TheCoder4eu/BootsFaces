@@ -1,0 +1,17 @@
+BootsFaces v0.3.4 - Maintenance release
+This release updates Bootstrap to version 3.1.1 .
+
+BootsFaces v0.3.3 - Framework upgrade release
+This is a Framework and library upgrade release:
+    upgraded to Bootstrap v3.1.0
+    upgraded jQuery to 1.11.0
+
+BootsFaces v0.3.2 - New components release
+The v0.3.2 Release is focused on adding the Button Group and Button Toolbar components,
+that allow for more advanced interfaces.
+
+BootsFaces v0.3.1 - Maintenance release
+This is a maintenance release to upgrade the Library to Bootstrap v3.0.3.
+Some effort has been made to solve the modal issue, but we prefer to wait for an official solution from Bootstrap Team .
+
+BootsFaces v0.3.0 - First public release
