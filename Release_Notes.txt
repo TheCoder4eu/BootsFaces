@@ -3,7 +3,7 @@ BootsFaces v0.3.5 - Framework Optimization release
 This release completes the Modularization of components and resources in order to be able to fine-tune customization of non-core components.
 The framework will load resources for non-core components only on pages where they are rendered, thus reducing the footprint of CSS and JS to be loaded.
 
-
+2014-02-14
 BootsFaces v0.3.4 - Maintenance release
 This release updates Bootstrap to version 3.1.1 .
 
