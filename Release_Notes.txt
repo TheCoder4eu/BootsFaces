@@ -1,6 +1,6 @@
 2014-03-28
 BootsFaces v0.3.6 - New component release
-The v0.3.2 Release is focused on adding the Button Group and Button Toolbar component.
+The v0.3.6 Release is focused on adding the Thumbnail component.
 Additionally it fixes a pair of little bugs triggered by the modularization of CSS and JS process.
 
 2014-03-01
