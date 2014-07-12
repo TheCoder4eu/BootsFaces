@@ -1,3 +1,15 @@
+2014-07-12 v0.3.7 - Framework upgrade release
+Upgrades:
+* upgraded to Bootstrap v3.2.0
+* upgraded jQuery to 1.11.1
+
+New features:
+* slider handle size is now configurable
+* added slider handle round shape support
+
+Fixes:
+* Bootstrap v3.2.0 fixed the modal shifting issue.
+
 2014-03-28
 BootsFaces v0.3.6 - New component release
 The v0.3.6 Release is focused on adding the Thumbnail component.
