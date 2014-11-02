@@ -1,6 +1,12 @@
 BootsFaces
 ==========
 
+Please Note!
+------------
+This project is now mantained here:
+https://github.com/TheCoder4eu/BootsFaces-OSP
+
+
 BootsFaces : the next gen JSF Framework that takes the best from
 
 Bootstrap 3 and jQuery UI to let you develop Front-end Enterprise Applications fast and easy.
